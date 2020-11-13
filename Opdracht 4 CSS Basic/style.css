@@ -1,0 +1,10 @@
+body { 
+    color: red;
+}
+
+.blackborder {
+    border: 5px solid black;
+}
+#groeneachtergrond {
+    background-color: green;
+}
